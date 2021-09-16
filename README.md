@@ -1,0 +1,2 @@
+# EyVideoPlayer
+exo/ijk/mediaplayer
