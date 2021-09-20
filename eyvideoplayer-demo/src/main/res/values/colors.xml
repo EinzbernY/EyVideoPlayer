@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#BE3329</color>
+    <color name="colorAccent">#F44336</color>
+    <color name="theme_color">#F44336</color>
+    <color name="player_theme_color_translucent">#8A289088</color>
+    <color name="player_background_color">#96414141</color>
+</resources>

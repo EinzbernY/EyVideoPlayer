@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="eyvideoplayer-demo/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19010416666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/drawable/ic_launcher_background.xml" value="0.190625" />
+        <entry key="eyvideoplayer-demo/src/main/res/drawable/selector_mute_icon.xml" value="0.190625" />
+        <entry key="eyvideoplayer-demo/src/main/res/drawable/shape_ad_bg.xml" value="0.190625" />
+        <entry key="eyvideoplayer-demo/src/main/res/drawable/shape_float_window_background.xml" value="0.190625" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/activity_custom_exo_player.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/activity_custom_ijk_player.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/activity_danmaku_player.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/activity_detail.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/activity_layout_common.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/activity_main.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/activity_pad.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/activity_parallel_play.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/activity_player.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/fragment_api.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/fragment_extension.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/fragment_list.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/fragment_list_view.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/fragment_pip.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/fragment_recycler_view.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/fragment_tiktok_list.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/item_tik_tok.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/item_video.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/layout_ad_control_view.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/layout_definition_control_view.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/layout_float_controller.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/layout_rate_item.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/layout_rate_pop.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/layout/layout_tiktok_controller.xml" value="0.17447916666666666" />
+        <entry key="eyvideoplayer-demo/src/main/res/menu/main_navigation_items.xml" value="0.3229166666666667" />
+        <entry key="eyvideoplayer-demo/src/main/res/menu/tiktok_impl_menu.xml" value="0.33" />
+        <entry key="eyvideoplayer-demo/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19114583333333332" />
+        <entry key="eyvideoplayer-demo/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19114583333333332" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_layer_progress_bar.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_progress_loading.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_seekbar_thumb.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_seekbar_thumb_normal.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_seekbar_thumb_pressed.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_selector_full_screen_button.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_selector_lock_button.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_selector_play_button.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_shape_back_bg.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_shape_play_bg.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_shape_standard_controller_top_bg.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_shape_stardard_controller_bottom_bg.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/eyplayer_shape_status_view_btn.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/drawable/ic_launcher_background.xml" value="0.3385416666666667" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/dkplayer_layout_complete_view.xml" value="0.2848731884057971" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/dkplayer_layout_error_view.xml" value="0.2848731884057971" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/dkplayer_layout_gesture_control_view.xml" value="0.2848731884057971" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/dkplayer_layout_live_control_view.xml" value="0.2848731884057971" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/dkplayer_layout_prepare_view.xml" value="0.2848731884057971" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/dkplayer_layout_standard_controller.xml" value="0.2848731884057971" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/dkplayer_layout_title_view.xml" value="0.2848731884057971" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/dkplayer_layout_vod_control_view.xml" value="0.2848731884057971" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/eyplayer_layout_complete_view.xml" value="0.175" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/eyplayer_layout_error_view.xml" value="0.175" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/eyplayer_layout_gesture_control_view.xml" value="0.175" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/eyplayer_layout_live_control_view.xml" value="0.175" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/eyplayer_layout_prepare_view.xml" value="0.175" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/eyplayer_layout_standard_controller.xml" value="0.175" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/eyplayer_layout_title_view.xml" value="0.175" />
+        <entry key="eyvideoplayer-ui/src/main/res/layout/eyplayer_layout_vod_control_view.xml" value="0.175" />
+        <entry key="eyvideoplayer-ui/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3385416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

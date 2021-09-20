@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="eyplayer_theme_color">#F44336</color>
+    <color name="eyplayer_theme_color_translucent">#A4F44336</color>
+    <color name="eyplayer_background_color">#4D000000</color>
+</resources>

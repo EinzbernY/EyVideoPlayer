@@ -1,0 +1,10 @@
+<resources>
+    <string name="eyplayer_replay">Replay</string>
+    <string name="eyplayer_lock_tip">Please unlock the screen first!</string>
+    <string name="eyplayer_unlocked">Unlocked</string>
+    <string name="eyplayer_locked">Locked</string>
+    <string name="eyplayer_error_message">Something went wrong, please try again later</string>
+    <string name="eyplayer_retry">  Retry  </string>
+    <string name="eyplayer_continue_play">Continue playing</string>
+    <string name="eyplayer_wifi_tip">You are currently using the mobile network, and continuing to play will consume traffic</string>
+</resources>
