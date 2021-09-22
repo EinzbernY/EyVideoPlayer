@@ -35,6 +35,7 @@
 
 #### 架构说明
 
+![本地路径](videoplayer.png "架构图")
 - 可以切换ExoPlayer、MediaPlayer，IjkPlayer，使用工厂模式Factory + AbstractVideoPlayer + 实现AbstractVideoPlayer抽象类的播放器类。
 - 可以自由切换视频内核，Player+Controller。player负责播放的逻辑，Controller负责视图相关的逻辑。
 - 定义一个BaseVideoController类，这个主要是集成各种事件的处理逻辑。
